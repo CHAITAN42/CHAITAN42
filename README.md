@@ -69,7 +69,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 Internship
 **Data Analytics Intern – Coding Blocks, Lucknow**  
 ✔ Built COVID dashboard using Power BI + SQL  
 ✔ Hands-on with MS Excel, Python scripts, and BI tools  
