@@ -33,7 +33,7 @@
 
 ### 🔹 **Customer Churn Prediction (85% Accuracy)**
 📌 Python ML project to identify churn patterns & improve retention.  
-🔗 Repo: *update link when uploaded*
+🔗 https://github.com/CHAITAN42/Machine-Learning/tree/main/Customer_Churn_Prediction
 
 ---
 
